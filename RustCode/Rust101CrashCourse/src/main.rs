@@ -32,7 +32,6 @@ if a > 200{
     println!("Small number");
 }
 
-
 let mut a = 0;
 loop {
     if a == 5 {
