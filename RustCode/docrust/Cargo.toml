@@ -6,8 +6,4 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-gtk = "0.9"
-ggez = "0.6"
-glam = "0.15.1"
-minifb = "0.20"
 rand = "0.8.5"
